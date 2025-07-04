@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/steubk/wikiart/data?select=Early_Renaissance
+
+the above link contains WikiArt dataset that contains a subfolder Early_Renaissance. 
+
+This particular gan was trained based on that dataset. 
